@@ -1,0 +1,8 @@
+C:\Users\csacc\source\repos\crypto anti dbg\crypto anti dbg\bin\Debug\crypto anti dbg.exe.config
+C:\Users\csacc\source\repos\crypto anti dbg\crypto anti dbg\bin\Debug\crypto anti dbg.exe
+C:\Users\csacc\source\repos\crypto anti dbg\crypto anti dbg\bin\Debug\crypto anti dbg.pdb
+C:\Users\csacc\source\repos\crypto anti dbg\crypto anti dbg\obj\Debug\crypto anti dbg.csproj.AssemblyReference.cache
+C:\Users\csacc\source\repos\crypto anti dbg\crypto anti dbg\obj\Debug\crypto anti dbg.csproj.SuggestedBindingRedirects.cache
+C:\Users\csacc\source\repos\crypto anti dbg\crypto anti dbg\obj\Debug\crypto anti dbg.csproj.CoreCompileInputs.cache
+C:\Users\csacc\source\repos\crypto anti dbg\crypto anti dbg\obj\Debug\crypto anti dbg.exe
+C:\Users\csacc\source\repos\crypto anti dbg\crypto anti dbg\obj\Debug\crypto anti dbg.pdb
